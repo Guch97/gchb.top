@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mirtio</title>
+  <icon>https://www.gravatar.com/avatar/f1dc3fef7aa7d423fbf8844f32ff80b9</icon>
+  <subtitle>To Be a Batter Me</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-09-27T09:06:44.039Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Mirtio</name>
+    <email>930571051@qq.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>初见</title>
+    <link href="http://yoursite.com/2019/09/27/%E5%88%9D%E8%A7%81/"/>
+    <id>http://yoursite.com/2019/09/27/初见/</id>
+    <published>2019-09-27T08:48:49.000Z</published>
+    <updated>2019-09-27T09:06:44.039Z</updated>
+    
+    <content type="html"><![CDATA[<p>你好，陌生人<br><img src="/2019/09/27/初见/1.png" alt="你好,陌生人"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;你好，陌生人&lt;br&gt;&lt;img src=&quot;/2019/09/27/初见/1.png&quot; alt=&quot;你好,陌生人&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
