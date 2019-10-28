@@ -149,7 +149,7 @@
     motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
     duoshuo: {
       userId: '0',
-      author: '博主'
+      author: 'Author'
     },
     algolia: {
       applicationID: '',
@@ -266,16 +266,6 @@
         </li>
       
         
-        <li class="menu-item menu-item-标签">
-          <a href="/tags/" rel="section">
-            
-              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br>
-            
-            标签
-          </a>
-        </li>
-      
-        
         <li class="menu-item menu-item-分类">
           <a href="/categories/" rel="section">
             
@@ -295,6 +285,16 @@
           </a>
         </li>
       
+        
+        <li class="menu-item menu-item-歌单">
+          <a href="/playlist/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-music"></i> <br>
+            
+            歌单
+          </a>
+        </li>
+      
 
       
         <li class="menu-item menu-item-search">
@@ -304,7 +304,7 @@
             
               <i class="menu-item-icon fa fa-search fa-fw"></i> <br>
             
-            搜索
+            Search
           </a>
         </li>
       
@@ -323,7 +323,7 @@
       <i class="fa fa-times-circle"></i>
     </span>
     <div class="local-search-input-wrapper">
-      <input autocomplete="off" placeholder="搜索..." spellcheck="false" type="text" id="local-search-input">
+      <input autocomplete="off" placeholder="Searching..." spellcheck="false" type="text" id="local-search-input">
     </div>
   </div>
   <div id="local-search-result"></div>
@@ -387,9 +387,9 @@
                 <i class="fa fa-calendar-o"></i>
               </span>
               
-                <span class="post-meta-item-text">发表于</span>
+                <span class="post-meta-item-text">Posted on</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2019-09-27T16:48:49+08:00">
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2019-09-27T16:48:49+08:00">
                 2019-09-27
               </time>
             
@@ -432,7 +432,7 @@
       
 
       
-        <script src="/assets/js/APlayer.min.js"> </script><p>你好，陌生人<br><img src="/2019/09/27/初见/1.png" alt="你好,陌生人"></p>
+        <script src="\assets\js\APlayer.min.js"> </script><p>你好，陌生人<br><img src="/2019/09/27/初见/1.png" alt="你好,陌生人"></p>
 
       
     </div>
@@ -447,14 +447,14 @@
         <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
   <div>赏！</div>
   <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
-    <span>打赏</span>
+    <span>Donate</span>
   </button>
   <div id="QR" style="display: none;">
 
     
       <div id="wechat" style="display: inline-block">
-        <img id="wechat_qr" src="/images/wechat.png" alt="Mirtio 微信支付">
-        <p>微信支付</p>
+        <img id="wechat_qr" src="/images/wechat.png" alt="Mirtio WeChat Pay">
+        <p>WeChat Pay</p>
       </div>
     
 
@@ -555,7 +555,7 @@
                 <a href="/archives">
               
                   <span class="site-state-item-count">1</span>
-                  <span class="site-state-item-name">日志</span>
+                  <span class="site-state-item-name">posts</span>
                 </a>
               </div>
             
@@ -568,7 +568,7 @@
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
                   <span class="site-state-item-count">1</span>
-                  <span class="site-state-item-name">标签</span>
+                  <span class="site-state-item-name">tags</span>
                 </a>
               </div>
             
@@ -587,7 +587,7 @@
                   </span>
                 
                   <span class="links-of-author-item">
-                    <a href="930571051@outlook.com" target="_blank" title="E-Mail">
+                    <a href="mailto:930571051@gmail.com" target="_blank" title="E-Mail">
                       
                         <i class="fa fa-fw fa-envelope"></i>E-Mail</a>
                   </span>
@@ -613,7 +613,9 @@
           
           
 
-          
+          <div>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="298" height="52" src="//music.163.com/outchain/player?type=2&id=496774187&auto=0&height=32"></iframe>
+</div>
         </div>
       </section>
 
