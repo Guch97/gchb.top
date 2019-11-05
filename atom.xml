@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-29T12:18:05.022Z</updated>
+  <updated>2019-11-05T10:25:35.509Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>前端学习心得</title>
+    <link href="http://yoursite.com/2019/11/05/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E5%BF%83%E5%BE%97/"/>
+    <id>http://yoursite.com/2019/11/05/前端学习心得/</id>
+    <published>2019-11-05T10:48:49.000Z</published>
+    <updated>2019-11-05T10:25:35.509Z</updated>
+    
+    <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h1 id="关于前端学习"><a href="#关于前端学习" class="headerlink" title="关于前端学习"></a>关于前端学习</h1><p>今天我写的这篇文章，是我自己对学习方法的一些简单看法和思考，大家可以了解一下。其实每个人都是不同的个体，人家的方法论不一定适合于你。有些人喜欢看书学习，有些人喜欢看视频学习，也有些人前两者都不喜欢，觉得搜索一些资料学习更快，当然还有其他很多方法。我们其实不能单纯的评判哪种方式学习效果最好，应该是适合自己的才是最好的。</p><p>*   关于看书</p><p>  看书这个话题。我买的前端相关的书并不多，迄今为止也没有一本看完的。我喜欢尽量挑选自己感兴趣的章节来阅读，非前端相关的书对于我感兴趣的内容较多，所以会更加倾向于看完。对于书来说，我更加推荐买点深入的话题，毕竟入门的内容实在能找到太多了，但是深入下去的内容就不多。</p><p>*视频</p><p>  再来说说视频这个话题，其实这个可以归类在知识付费这块，毕竟大部分的视频还是要花钱的。那么说到知识付费，很多人可能就会嗤之以鼻了。确实有部分知识付费的内容差强人意，会让消费者觉得浪费钱，但是不能因为此而一棍子打死全部，毕竟还是存在好的东西的。我认为知识它可以是免费的，因为互联网太大，我们可以免费搜索到太多了，但是获取知识的途径是收费的，因为很多人他不知道如何去找到这些知识，或者说即使找到了也不能理解，那么如果有人来做了这件事情，让你节约了时间并且确实让你有收获了，那么对于这个过程，就可以是收费的。</p><p>*  搜索</p><p>  最后来说说通过搜索来学习这个话题，想必大家都有看掘金或者其他技术文章。但是其实读文章这个事情谁都会，但是如何读确是一个难题，说实在，大部分我只是走马观花的读一遍内容，确实你可以认知到一些东西，但是这些东西留存在你脑子中的时间不会太长（除非你拥有过目不忘的能力）。我觉得平时如果读到一篇让我们有收获或者疑问的文章，我们应该进行如下的步骤</p><blockquote><p>验证他的概念是否存在错误</p></blockquote><blockquote><p>验证他的代码是否存在错误</p></blockquote><blockquote><p>记录下关于这篇文章的思考</p></blockquote><p>记录下关于这篇文章的思考那么对于阅读文章来说，相信我们都会遇到一些之前不知道的概念或者与我们概念相违背的内容，这时候我们可以试着通过以上三个步骤来验证这个概念，最后再将你学习到的内容记录下来，这样你最终收获到的一定比你走马观花来的多得多。</p><p>  记录这个过程对于学习是很重要的，小时候老师总是讲好记性不如烂笔头，人随着年龄的增长记忆力肯定不如从前的，如果我们能将学习到的内容记录下来，那么即使我们忘了，还是可以通过笔记找回来。并且一旦我们养成了记录的习惯，就可以尝试着将内容输出给别人，因为当我们能将内容正确的输出给别人，同时也让别人明白的话，那么我们一定是完完全全的理解了这部分的知识点。</p><p>  所以我建议在学习时候，能把自己学习到的输出出来并且放到自己的博客上，不要担心会有人喷你写的垃圾，但是我们的成长却在日益见长。当我们博客输出久了，会发现技术变得顺利了一点。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;script src=&quot;\assets\js\APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;h1 id=&quot;关于前端学习&quot;&gt;&lt;a href=&quot;#关于前端学习&quot; class=&quot;headerlink&quot; title=&quot;关于前端学习&quot;&gt;&lt;/a&gt;关于前端学习&lt;/h1&gt;&lt;p&gt;今天我写
+      
+    
+    </summary>
+    
+    
+    
+      <category term="about" scheme="http://yoursite.com/tags/about/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo博客优化：添加返回顶部功能</title>
     <link href="http://yoursite.com/2019/10/29/Hexo%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/"/>
     <id>http://yoursite.com/2019/10/29/Hexo博客优化/</id>
     <published>2019-10-29T08:48:49.000Z</published>
-    <updated>2019-10-29T12:18:05.022Z</updated>
+    <updated>2019-11-05T10:25:36.655Z</updated>
     
     <content type="html"><![CDATA[<script src="\assets\js\APlayer.min.js"> </script><h1 id="Hexo博客优化：添加返回顶部功能"><a href="#Hexo博客优化：添加返回顶部功能" class="headerlink" title="Hexo博客优化：添加返回顶部功能"></a>Hexo博客优化：添加返回顶部功能</h1><blockquote><p>其实在hexo中实现返回顶部相当简单，所有的东西都是模块化的。只要我们写好HTML文件、JS文件，放入相应的目录，然后在对应的网页位置引用就可以了 。这里分享我的代码和实现过程。</p></blockquote><ol><li>添加HTML代码。新建文件 /themes/light/layout/_partial/totop.ejs ，在文件中加入HTML代码：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&lt;div id=&quot;totop&quot; style=&quot;position:fixed;bottom:150px;right:50px;cursor: pointer;&quot;&gt;</span><br><span class="line">&lt;a title=&quot;返回顶部&quot;&gt;&lt;img src=&quot;/imgs/scrollup.png&quot;/&gt;&lt;/a&gt;</span><br><span class="line">&lt;/div&gt;</span><br></pre></td></tr></table></figure></li></ol><ol start="2"><li>添加JS代码。新建文件 /themes/light/source/js/totop.js，在文件中添加javascript代码：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line">(function($) &#123; </span><br><span class="line">// When to show the scroll link</span><br><span class="line">// higher number = scroll link appears further down the page   </span><br><span class="line">var upperLimit = 1000;</span><br><span class="line"></span><br><span class="line">// Our scroll link element</span><br><span class="line">var scrollElem = $(&apos;#totop&apos;);</span><br><span class="line">   </span><br><span class="line">// Scroll to top speed</span><br><span class="line">var scrollSpeed = 500;</span><br><span class="line">   </span><br><span class="line">// Show and hide the scroll to top link based on scroll position   </span><br><span class="line">scrollElem.hide();</span><br><span class="line">$(window).scroll(function () &#123;            </span><br><span class="line">var scrollTop = $(document).scrollTop();       </span><br><span class="line">if ( scrollTop &gt; upperLimit ) &#123;</span><br><span class="line">$(scrollElem).stop().fadeTo(300, 1); // fade back in           </span><br><span class="line">&#125;else&#123;       </span><br><span class="line">$(scrollElem).stop().fadeTo(300, 0); // fade out</span><br><span class="line">&#125;</span><br><span class="line">&#125;);</span><br><span class="line"></span><br><span class="line">// Scroll to top animation on click</span><br><span class="line">$(scrollElem).click(function()&#123;</span><br><span class="line">$(&apos;html, body&apos;).animate(&#123;scrollTop:0&#125;, scrollSpeed); return false;</span><br><span class="line">&#125;);</span><br><span class="line">&#125;)(jQuery);</span><br></pre></td></tr></table></figure></li></ol><p>如果对显示位置和回滚速度不太满意，可以修改以上代码的upperLimit和scrollSpeed参数即可。</p><ol start="3"><li>添加对HTML和JS文件的引用。修改themes/light/layout/_partial/after_footer.ejs文件，在文件末尾添加以下两行代码：<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;%- partial(&apos;totop&apos;) %&gt;</span><br><span class="line">&lt;script src=&quot;&lt;%- config.root %&gt;js/totop.js&quot;&gt;&lt;/script&gt;</span><br></pre></td></tr></table></figure></li></ol><p>大功告成！ 赶快 hexo s 看看效果吧。 如果一切顺利的话，看到的效果应该与本页面一样（保证页面够长），在页面右侧就有一个返回顶部的按钮了！</p>]]></content>
     
